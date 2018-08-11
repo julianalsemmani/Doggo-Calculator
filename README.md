@@ -1,4 +1,4 @@
-# Doggo-Calculator
+# Doggo Calculator
 Dog Calculator in GUI Version 1
 
 THIS IS A DOG CALCULATOR AGE. 
