@@ -1,0 +1,9 @@
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\bin\Debug\Doggo Calculator.exe.config
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\bin\Debug\Doggo Calculator.exe
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\bin\Debug\Doggo Calculator.pdb
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo_Calculator.Form1.resources
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo_Calculator.Properties.Resources.resources
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.csproj.GenerateResource.cache
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.csproj.CoreCompileInputs.cache
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.exe
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.pdb
