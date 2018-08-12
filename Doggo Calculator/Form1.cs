@@ -12,8 +12,12 @@ namespace Doggo_Calculator
 {
     public partial class Form1 : Form
     {
-        public int multiplyAge = 9;
+        public int multiplyAge = 7;
         public int dogAge;
+        public int dogFirstYear = 15;
+        public int dogSecondYear = 24;
+        public int dogAgeFour = 4;
+        public int afterTwoYears = 24;
 
         public Form1()
         {
@@ -31,14 +35,35 @@ namespace Doggo_Calculator
 
             if (int.TryParse(textBox1.Text, out dogAge))
             {
-                int total = dogAge * multiplyAge;
-                label3.Text = total + " years old";
-                label4.Text = " ";
-            } else if (!int.TryParse(textBox1.Text, out dogAge))
+                if (dogAge == 1)
+                {
+                    label3.Text = dogFirstYear + " years old";
+                    label4.Text = " ";
+                } else if (dogAge == 2)
+                {
+                    label3.Text = dogSecondYear + " years old";
+                    label4.Text = " ";
+                } else if (dogAge > 2)
+                {
+                    int dogAgeDone = afterTwoYears + ((dogAge - 2) * dogAgeFour);
+                    label3.Text = dogAgeDone + " years old";
+                    label4.Text = " ";
+                } else if (dogAge < 1)
+                {
+                    label3.Text = "1 year or more.";
+                    label4.Text = " ";
+                }
+            }
+            else if (!int.TryParse(textBox1.Text, out dogAge))
             {
                 label3.Text = "Invalid.";
                 label4.Text = "Try again.";
             }
+
+            // Old Algorithm
+            /*  int total = dogAge * multiplyAge;
+                label3.Text = total + " years old";
+                label4.Text = " ";  */
         }
 
         private void iconToolStripMenuItem_Click(object sender, EventArgs e)

@@ -7,3 +7,4 @@ D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Ca
 D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.csproj.CoreCompileInputs.cache
 D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.exe
 D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.pdb
+D:\Project\Doggo Calculator\Doggo Calculator\Doggo Calculator\obj\Debug\Doggo Calculator.csprojAssemblyReference.cache
